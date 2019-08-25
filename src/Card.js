@@ -9,7 +9,7 @@ const Card = ({name, email, id}) => { // {} destructures "props"
                 <p>{email}</p>
             </div>
         </div>
-    )
+    );
 }
 
 export default Card;
