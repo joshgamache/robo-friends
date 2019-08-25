@@ -1,0 +1,33 @@
+
+> core-js@2.6.9 postinstall C:\Users\Josh\Documents\Dev\CWD\robo-friends\node_modules\babel-runtime\node_modules\core-js
+> node scripts/postinstall || echo "ignore"
+
+[96mThank you for using core-js ([94m https://github.com/zloirock/core-js [96m) for polyfilling JavaScript standard library![0m
+
+[96mThe project needs your help! Please consider supporting of core-js on Open Collective or Patreon: [0m
+[96m>[94m https://opencollective.com/core-js [0m
+[96m>[94m https://www.patreon.com/zloirock [0m
+
+[96mAlso, the author of core-js ([94m https://github.com/zloirock [96m) is looking for a good job -)[0m
+
+
+> core-js@3.1.4 postinstall C:\Users\Josh\Documents\Dev\CWD\robo-friends\node_modules\core-js
+> node scripts/postinstall || echo "ignore"
+
+[96mThank you for using core-js ([94m https://github.com/zloirock/core-js [96m) for polyfilling JavaScript standard library![0m
+
+[96mThe project needs your help! Please consider supporting of core-js on Open Collective or Patreon: [0m
+[96m>[94m https://opencollective.com/core-js [0m
+[96m>[94m https://www.patreon.com/zloirock [0m
+
+[96mAlso, the author of core-js ([94m https://github.com/zloirock [96m) is looking for a good job -)[0m
+
++ eslint-plugin-node@9.1.0
++ eslint-plugin-standard@4.0.1
++ eslint-config-standard@14.0.1
++ eslint-plugin-promise@4.2.1
++ eslint@6.2.2
++ eslint-plugin-import@2.18.2
+added 1429 packages from 689 contributors and audited 902373 packages in 41.222s
+found 0 vulnerabilities
+
